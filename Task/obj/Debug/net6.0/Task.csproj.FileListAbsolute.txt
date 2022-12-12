@@ -1,0 +1,15 @@
+G:\8 Лена\GeekBrains\Final_Work\Task\bin\Debug\net6.0\Task.exe
+G:\8 Лена\GeekBrains\Final_Work\Task\bin\Debug\net6.0\Task.deps.json
+G:\8 Лена\GeekBrains\Final_Work\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+G:\8 Лена\GeekBrains\Final_Work\Task\bin\Debug\net6.0\Task.dll
+G:\8 Лена\GeekBrains\Final_Work\Task\bin\Debug\net6.0\Task.pdb
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.dll
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\refint\Task.dll
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.pdb
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+G:\8 Лена\GeekBrains\Final_Work\Task\obj\Debug\net6.0\ref\Task.dll
